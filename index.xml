@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud Niners | AWS, Azure, DevOps consulting &amp; Hackery</title>
+    <title>Cloud Niners Tech Blog</title>
     <link>http://blog.cloud9ers.com/</link>
-    <description>Recent content on Cloud Niners | AWS, Azure, DevOps consulting &amp; Hackery</description>
+    <description>Recent content on Cloud Niners Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Jan 2016 11:43:33 +0200</lastBuildDate>
