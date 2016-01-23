@@ -1,0 +1,11 @@
+baseurl = "http://blog.cloud9ers.com/"
+languageCode = "en-us"
+title = "Cloud Niners Tech Blog"
+publishdir = "dist"
+editor = "vim"
+DisqusShortname = "blogcloudniners"
+theme = "casper"
+
+[params]
+  description = "Techy blog mostly about AWS, Azure and other clouds, DevOps, Linux and Unix hackery, with a touch of data crunching"
+  author = "Ahmed Kamal"
