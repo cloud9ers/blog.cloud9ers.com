@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://blog.cloud9ers.com/</loc>
+    <lastmod>2016-01-23T11:43:33+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.cloud9ers.com/post/post-title/</loc>
+    <lastmod>2016-01-23T11:43:33+02:00</lastmod>
   </url>
   
 </urlset>
