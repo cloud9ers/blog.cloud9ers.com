@@ -1,3 +1,3 @@
 [submodule "themes/casper"]
 	path = themes/casper
-	url = https://github.com/cloud9ers/hugo-theme-casper/tree/opacity-cover-image
+	url = https://github.com/cloud9ers/hugo-theme-casper.git
