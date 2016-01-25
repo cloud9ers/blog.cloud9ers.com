@@ -5,7 +5,10 @@ publishdir = "dist"
 editor = "vim"
 DisqusShortname = "blogcloudniners"
 theme = "casper"
+pygmentsstyle = "emacs"
 
 [params]
   description = "Techy blog mostly about AWS, Azure and other clouds, DevOps, Linux and Unix hackery, with a touch of data crunching"
   author = "Ahmed Kamal"
+  cover = "images/2016/01/c9cover.png"
+  logo = "images/2016/01/c9logo.png"
