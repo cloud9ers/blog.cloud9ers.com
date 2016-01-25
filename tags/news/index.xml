@@ -11,11 +11,13 @@
     
     <item>
       <title>Welcome to Cloud Niners blog</title>
-      <link>http://blog.cloud9ers.com/post/post-title/</link>
+      <link>http://blog.cloud9ers.com/post/welcome-cloud-niners-tech-blog-aws-azure-devops/</link>
       <pubDate>Sat, 23 Jan 2016 11:43:33 +0200</pubDate>
       
-      <guid>http://blog.cloud9ers.com/post/post-title/</guid>
-      <description>&lt;p&gt;Welcome to our new blog! Here you will find techy news mostly about compute clouds such as Amazon AWS, Microsoft Azure, IBM Softlayer, or OpenStack. At &lt;a href=&#34;http://cloud9ers.com&#34;&gt;Cloud Niners&lt;/a&gt; we have a tendency to prefer open-source solutions, so yes lots of those too. Expect lots of Linux and other unices in the news. DevOps and infrastructure automation with a light touch of data analysis and crunching.&lt;/p&gt;
+      <guid>http://blog.cloud9ers.com/post/welcome-cloud-niners-tech-blog-aws-azure-devops/</guid>
+      <description>&lt;p&gt;Welcome to our new blog! Here you will find techy news mostly about compute clouds such as Amazon AWS, Microsoft Azure, IBM Softlayer, or OpenStack.&lt;/p&gt;
+
+&lt;p&gt;At &lt;a href=&#34;http://cloud9ers.com&#34;&gt;Cloud Niners&lt;/a&gt; we have a tendency to prefer open-source solutions, so yes lots of those too. Expect lots of Linux and other unices in the news. DevOps and infrastructure automation with a light touch of data analysis and crunching.&lt;/p&gt;
 </description>
     </item>
     
